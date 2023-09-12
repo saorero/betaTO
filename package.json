@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://saorero.github.io/betaTO",
+  "homepage": "https://github.com/saorero/betaTO",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://saorero.github.io/betaTO'",
+    "build-gh": "https://github.com/saorero/betaTO'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
