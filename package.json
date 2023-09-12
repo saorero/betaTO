@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "https://github.com/saorero/betaTO'",
+    "build-gh": " 'https://github.com/saorero/betaTO'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
